@@ -61,7 +61,7 @@ export function Block09Offer() {
               cafés, puedes añadir un sistema completo para trabajar durante 5 días.
             </p>
 
-            <div className="mt-8">
+            <div id="oferta-cta" className="mt-8">
               <CtaButton scrollTo="oferta" size="default" className="px-4 py-3 text-[13px] leading-tight sm:px-6 sm:py-5 sm:text-lg"><span className="max-w-[15rem] text-balance">Quiero mi Médico Virtual de por vida — US$97</span></CtaButton>
             </div>
           </div>
