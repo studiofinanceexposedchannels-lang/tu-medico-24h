@@ -99,7 +99,7 @@ export function Block13Close() {
             <ArrowDown className="size-5 animate-bounce" />
           </div>
           <div className="mt-8">
-            <CtaButton scrollTo="oferta-cta" size="default" subtle className="px-4 py-3 text-[13px] leading-tight sm:px-6 sm:py-5 sm:text-lg"><span className="max-w-[15rem] text-balance">Sí, quiero añadir el Protocolo por $17</span></CtaButton>
+            <CtaButton scrollTo="opciones-cta" size="default" subtle className="px-4 py-3 text-[13px] leading-tight sm:px-6 sm:py-5 sm:text-lg"><span className="max-w-[15rem] text-balance">Sí, quiero añadir el Protocolo por $17</span></CtaButton>
           </div>
           <p className="mt-4 text-xs text-background/50">
             Pago único · Garantía de 7 días · Acceso inmediato
